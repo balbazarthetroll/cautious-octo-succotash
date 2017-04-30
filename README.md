@@ -1,2 +1,2 @@
 # cautious-octo-succotash
-a to-do list application
+I'm building a web based to-do-list application as a learning exercise.  
